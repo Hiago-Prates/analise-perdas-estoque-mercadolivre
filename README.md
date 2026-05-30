@@ -1,0 +1,1 @@
+# analise-perdas-estoque-mercadolivre
