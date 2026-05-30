@@ -1,0 +1,12 @@
+Passos que eu sigo: 
+1° Verifico no nosso banco de dados de Inconsistências de estoque e verifico se as peças seguem em Lost (perdidas) e pendentes - Neste caso foram 569 unidades da mesma peças perdida
+2° Analiso os movimentos: 
+Observo como as peças caíram para lost, quantas coletas tiveram/quantas unidades foram coletadas, se houve ação de setores terceiros (coletas de qualidade, time de suporte...), se houve movimentações sistêmicas,  se houveram conciliações 
+Observo como as peças foram parar no endereço 
+Refaço toda a movimentação da peça até chegar no recebimento
+Verifico se a peça foi recebida corretamente 
+3°Verifico se houve inversão com as peças
+4° Verifico se há sobras da mesma peça em estoque
+5°Verifico a posição física 
+6° Se encontrado as posição perdidas = Concilio ou se houverem sobras = concilio 
+E finalizo a analise
